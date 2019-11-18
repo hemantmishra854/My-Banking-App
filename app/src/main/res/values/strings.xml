@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">Banking App</string>
+    <string name="txt_customer_login_activity">Customer Login</string>
+    <string name="txt_admin_login_activity">Admin Login</string>
+    <string name="txt_customer_sign_up_activity">Register</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="button_login">Customer Login</string>
+    <string name="button_register">Register</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="banking_search_title">Search</string>
+    <string name="banking_filter_title">Filter</string>
+    <string name="banking_label">Label1</string>
+    <string name="banking_account_label">My Account</string>
+    <string name="error_invalid_password">Password can not be less than 6 characters</string>
+    <string name="error_password">Password is empty</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="error_email">Email is empty</string>
+    <string name="error_invalid_email">Enter valid email</string>
+    <string name="error_name">Name is empty</string>
+    <string name="error_mobile_no">Mobile number is empty</string>
+    <string name="error_confirm_password">Passwords do not match</string>
+    <string name="Search_title">Search</string>
+    <string name="filter_title">Filter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account_title">Account</string>
+    <string name="loan_title">Loan</string>
+    <string name="deposit_title">Deposit</string>
+    <string name="logout_title">Logout</string>
+    <string name="button_admin_login">Admin Login</string>
+    <string name="text_forgot_password">Forgot Password?</string>
+    <string name="text_sign_up">Don\'t have account?Register here.</string>
+    <string name="text_customer_login">Already registered?Login here</string>
+    <string name="txt_forgot_password_activity">Reset Password</string>
+    <string name="button_reset_password">Reset Password</string>
+    <string name="label_send_sms_code">Get OTP</string>
+    <string name="label_verification_code">Verify OTP</string>
+    <string name="hint_verify_otp">Enter OTP</string>
+    <string name="label_get_otp">Get OTP</string>
+    <string name="error_otp">Enter OTP</string>
+    <string name="open_account_title">Open Account</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_city">City</string>
+    <string name="label_open_account">Apply</string>
+    <string name="main_cards_title">Cards</string>
+    <string name="main_loan_title">Loans</string>
+    <string name="main_deposit_title">Deposits</string>
+    <string name="error_first_name">First name is empty</string>
+    <string name="error_ciy">City is empty</string>
+    <string name="error_last_name">Last name is empty</string>
+    <string name="application_confirmation_title">Confirmation</string>
+    <string name="label_ok">OK</string>
+    <string name="error_invalid_mobile_no">Invalid Mobile Number</string>
+
+    <string name="accounts_confirmation_message">
+        Thanks for your interest in opening an account in my bank.
+        We will contact you shortly.</string>
+    <string name="loans_confirmation_message">Thanks for your interest in applying
+        for a loan in my bank.We will contact you shortly.</string>
+    <string name="deposits_confirmation_message">Thanks for your interest in applying
+        for a deposit in my bank.We will contact you shortly.</string>
+    <string name="cards_confirmation_message">Thanks for your interest in applying
+        for a card in my bank.We will contact you shortly.</string>
+    <string name="profile_title">My Profile</string>
+    <string name="label_branch">Branch</string>
+    <string name="label_mobile">Mobile Number</string>
+    <string name="label_city">City</string>
+    <string name="label_state">State</string>
+    <string name="label_aadhar_no">Aadhar Number</string>
+    <string name="label_pan">PAN</string>
+    <string name="label_account_no">Account Number</string>
+    <string name="label_available_balance">Available Balance</string>
+    <string name="label_apply_for_loan">Request for Loan</string>
+    <string name="loan_found">You have requested for </string>
+    <string name="loan_not_found">You have not requested for any loan.</string>
+    <string name="loan_message">Our executives will contact you shortly regarding
+        the approval of the above mentioned loan.Thanks for you support and interest
+        in our schemes and loans.</string>
+    <string name="deposit_message">Our executives will contact you shortly regarding
+        the approval of the above mentioned deposit.Thanks for you support and interest
+        in our schemes and deposits.</string>
+    <string name="card_message">Our executives will contact you shortly regarding
+        the approval of the above mentioned cards.Thanks for you support and interest
+        in our schemes and card services.</string>
+    <string name="request_for_other_card">Request for other Card</string>
+    <string name="request_for_other_loan">Request for other Loan</string>
+    <string name="label_apply_for_deposit">Request for Deposit</string>
+    <string name="deposit_not_found">You have not requested for any deposit.</string>
+    <string name="deposit_found">You have requested for</string>
+    <string name="request_for_other_deposit">Request for other Deposit</string>
+    <string name="debit_card_title">Debit Card</string>
+    <string name="debit_card_not_found">You don\'t have any debit card linked with this account, please apply for debit card.</string>
+    <string name="label_apply_for_card">Apply Now</string>
+    <string name="card_found">You have requested for</string>
+    <string name="card_services_title">Card Services</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="label_feedback">Rate us in the scale of 1 to 5</string>
+    <string name="hint_feedback">Give your feedback</string>
+    <string name="button_submit">Submit</string>
+    <string name="error_feedback">Please give your feedback</string>
+    <string name="fund_transfer_title">Fund Transfer</string>
+    <string name="hint_account_no">Account Number</string>
+    <string name="hint_IFSC">IFSC</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_remarks">Remarks</string>
+    <string name="error_account_no">Please enter account number</string>
+    <string name="error_IFSC">Please enter IFSC</string>
+    <string name="error_amount">Please enter amount</string>
+    <string name="text_transfer_to">Transfer To</string>
+    <string name="text_transfer_from">From</string>
+    <string name="hint_payee">Payee</string>
+    <string name="error_payee">Please enter payee name</string>
+    <string name="error_bank_from">Please enter your account number</string>
+    <string name="error_invalid_amount">You don\'t have sufficient amount</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="label_contact_person">Contact Person</string>
+    <string name="label_follow_us">Follow us on</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="account_type">
+        <item>Select Account</item>
+        <item>Savings Account</item>
+        <item>Current Account</item>
+    </string-array>
+    <string-array name="card_type">
+        <item>Select Card</item>
+        <item>Debit Card</item>
+        <item>Credit Card</item>
+    </string-array>
+    <string-array name="deposit_type">
+        <item>Select Deposit</item>
+        <item>Fixed Deposit</item>
+        <item>Recurring Deposit</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="loan_type">
+        <item>Select Loan</item>
+        <item>Home Loan</item>
+        <item>Personal Loan</item>
+        <item>Education Loan</item>
+        <item>Car Loan</item>
+        <item>Gold Loan</item>
+        <item>Business Loan</item>
+        <item>Other Loan</item>
+    </string-array>
+    <string-array name="bank_name">
+        <item>Select Bank</item>
+        <item>State Bank of India</item>
+        <item>Union Bank of India</item>
+        <item>Panjab National Bank</item>
+        <item>Yes Bank</item>
+        <item>ICICI Bank</item>
+        <item>HDFC Bank</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

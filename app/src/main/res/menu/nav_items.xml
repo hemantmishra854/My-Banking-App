@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home"
+            android:iconTint="@color/colorAccent"
+            />
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_phone"
+            android:title="Contact Us"
+            android:iconTint="@color/colorAccent" />
+        <item
+            android:id="@+id/nav_FAQs"
+            android:icon="@drawable/ic_question_answer"
+            android:title="FAQs"
+            android:iconTint="@color/colorAccent"/>
+        <item
+            android:id="@+id/nav_offers"
+            android:icon="@drawable/ic_local_offer"
+            android:title="Offers"
+            android:iconTint="@color/colorAccent"/>
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_folder"
+            android:title="About Us"
+            android:iconTint="@color/colorAccent"/>
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_security"
+            android:title="Change Password"
+            android:iconTint="@color/colorAccent"/>
+        <item
+            android:id="@+id/nav_de_register"
+            android:icon="@drawable/ic_close"
+            android:title="De-Register"
+            android:iconTint="@color/colorAccent"/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_power_settings_nav"
+            android:title="Logout"
+            android:iconTint="@color/colorAccent" />
+    </group>
+</menu>
